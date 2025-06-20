@@ -23,8 +23,6 @@ I'm Tiago, I'm 18 years old and I'm a passionate programmer from Portugal! <br>
 🔐 Cybersecurity
 🌐 Backend Development
 📱 Web Development
-🤖 Process Automation
-📊 Data Analysis
 
 📊 GitHub Statistics
 <div align="center">
