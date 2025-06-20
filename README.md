@@ -2,12 +2,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Junior+Developer;Cybersecurity+Enthusiast;Always+learning+something+new!" alt="Typing SVG" />
 </div>
-🚀 About Me
-Hello! 👋 I'm Tiago, I'm 18 years old and I'm a passionate programmer from Portugal!
-🎓 Education: I completed my TGPSI course at secondary school, where I developed most of my current knowledge
-💡 Philosophy: I believe learning never stops! I'm always keen to learn new technologies and develop projects to optimise and expand my knowledge
-🔍 Goal: I'm seeking opportunities in Cybersecurity or Backend Programming
-🌍 Languages: Portuguese (native), English (basic level - currently studying to improve)
+<strong>🚀 About Me</strong>  <br>
+I'm Tiago, I'm 18 years old and I'm a passionate programmer from Portugal! <br>
+🎓 Education: I completed my TGPSI course at secondary school, where I developed most of my current knowledge <br>
+💡 Philosophy: I believe learning never stops! I'm always keen to learn new technologies and develop projects to optimise and expand my knowledge <br>
+🔍 Goal: I'm seeking opportunities in Cybersecurity, Backend Programming or junior developer<br>
+🌍 Languages: Portuguese (native), English (basic level - currently studying to improve) <br>
 <details>
 <summary>🎯 More about me</summary>
 
